@@ -1,0 +1,67 @@
+html{
+  height: 100%;
+}
+body {
+  background: url(./images/1000009803.jpg);
+  -webkit-background-size: cover;
+  background-size: cover;
+  -moz-background-size: cover;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  min-height: 100%;
+}
+#logo {
+  width: 207px;
+  height: 80px;
+  margin: 0px auto;
+  margin-top: 30px;
+  padding-top: 40px;
+  background: url(./images/1718787680796.jpg) no-repeat bottom center;
+}
+#content {
+  background-color: aliceblue;
+  border: 3px double #333;
+  border-radius: 10px;
+  color: #333;
+  display: inline-block;
+  padding: 30px;
+  margin: 20px auto 50px auto;
+  max-width: 780px;
+  min-height: 20px;
+  overflow: auto;
+  text-align: center;
+}
+.action {
+  background-color: #f84c53;
+  color: #fff;
+  width: auto;
+  height: 1em;
+  padding: 0.5em 0.75em;
+  margin-right: 10px;
+  float: right;
+  position: relative;
+  top: 1.3em;
+  right: -2.3em;
+  text-decoration: none;
+}
+.message {
+  font-weight: bold;
+  line-height: 25px;
+  font-size: 20px;
+  height: 29px;
+  display: block;
+  clear: left;
+  min-width: 60px;
+}
+table {
+  margin: 20px 150px 0 150px ;
+ line-height: 30px;
+ 
+ 
+}
+td,tr:first-child{
+    font-weight:bold;
+    padding-right:20px;
+}
